@@ -6,7 +6,6 @@ Folders:
 - cell tracking: code for stochastic cell tracking
 - cmodels: code to define and solve compartment models
 - mmodels: code to define metabolic model of overflow metabolism in E. coli
-- lifelines: .npy files of lifelines
 
 # Requirements
 - numpy
