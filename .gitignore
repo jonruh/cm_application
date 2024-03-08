@@ -1,0 +1,8 @@
+.vscode/
+cmodels\__pycache__
+mmodels\__pycache__
+mmodels\cc_mmodels\__pycache__
+mmodels\sc_mmodels\__pycache__
+sd_design\__pycache__
+__pycache__
+*.npy
